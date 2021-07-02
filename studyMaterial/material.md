@@ -1,4 +1,5 @@
 
+
 #  `Material used to study`
 
 ##### `Youtube: `
@@ -13,3 +14,4 @@
 
 [HTML.md](https://github.com/DMartinez998/IntroductoryProgramAltimetrik/files/6734689/HTML.md)
 
+[SEO.md](https://github.com/DMartinez998/IntroductoryProgramAltimetrik/files/6755863/SEO.md)
