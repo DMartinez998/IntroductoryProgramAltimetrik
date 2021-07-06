@@ -17,4 +17,5 @@
 
 [SEO.md](https://github.com/DMartinez998/IntroductoryProgramAltimetrik/files/6755863/SEO.md)
 
-[Media Query.md](https://github.com/DMartinez998/IntroductoryProgramAltimetrik/files/6771600/Media.Query.md
+
+[Media Query.md](https://github.com/DMartinez998/IntroductoryProgramAltimetrik/files/6771607/Media.Query.md)
